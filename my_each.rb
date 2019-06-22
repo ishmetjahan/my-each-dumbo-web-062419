@@ -1,2 +1,3 @@
-def my_each ()
+def my_each (arr)
+  
 end
